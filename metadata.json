@@ -1,0 +1,6 @@
+{
+  "name": "NS-3 Transmission Media Analyzer",
+  "description": "Computer Networks capstone dashboard comparing Twisted Pair (CSMA), Fiber Optic (Point-to-Point), and Wireless (Wi-Fi) link models on delay, packet loss, and throughput.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
